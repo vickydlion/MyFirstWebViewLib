@@ -8,14 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		E267D700268505A300D90E5F /* MyFirstWebViewLib.h in Headers */ = {isa = PBXBuildFile; fileRef = E267D6FE268505A300D90E5F /* MyFirstWebViewLib.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E267D7072685066800D90E5F /* WebViewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E267D7062685066800D90E5F /* WebViewViewController.swift */; };
+		E267D70B268515C200D90E5F /* MyFirstWebViewLib.swift in Sources */ = {isa = PBXBuildFile; fileRef = E267D70A268515C200D90E5F /* MyFirstWebViewLib.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		E267D6FB268505A300D90E5F /* MyFirstWebViewLib.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MyFirstWebViewLib.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E267D6FE268505A300D90E5F /* MyFirstWebViewLib.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyFirstWebViewLib.h; sourceTree = "<group>"; };
 		E267D6FF268505A300D90E5F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E267D7062685066800D90E5F /* WebViewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewViewController.swift; sourceTree = "<group>"; };
+		E267D70A268515C200D90E5F /* MyFirstWebViewLib.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstWebViewLib.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,7 +50,7 @@
 			children = (
 				E267D6FE268505A300D90E5F /* MyFirstWebViewLib.h */,
 				E267D6FF268505A300D90E5F /* Info.plist */,
-				E267D7062685066800D90E5F /* WebViewViewController.swift */,
+				E267D70A268515C200D90E5F /* MyFirstWebViewLib.swift */,
 			);
 			path = MyFirstWebViewLib;
 			sourceTree = "<group>";
@@ -134,7 +134,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E267D7072685066800D90E5F /* WebViewViewController.swift in Sources */,
+				E267D70B268515C200D90E5F /* MyFirstWebViewLib.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
